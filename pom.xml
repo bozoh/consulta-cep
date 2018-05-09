@@ -8,8 +8,8 @@
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>Consulta CEP</name>
+	<description>Mircoservice que retorna o endereço de um deterinado cep</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
